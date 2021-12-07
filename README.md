@@ -1,5 +1,6 @@
 # TicTacToe
-Basic 2 Player Tic Tac Toe that I made in python cause "why not"
+
+Basic 2 Player Tic Tac Toe that I made in python 3.9 
 
 You can play against another human or against the computer if you dare :)
 
